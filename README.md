@@ -1,1 +1,1 @@
-# Matplotlib_and_Tkinter
+# Matplotlib and Tkinter
